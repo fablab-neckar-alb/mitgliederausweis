@@ -1,6 +1,6 @@
 use <Karla_BoldStencil /Karla_BoldStencil.ttf>
 
-vorname = "Max";
+vorname = "Max von";
 nachname = "Brederlow";
 
 sizex = 85;

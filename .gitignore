@@ -1,3 +1,4 @@
 *.dxf
 *.svg
 !logo.dxf
+!preview.svg
